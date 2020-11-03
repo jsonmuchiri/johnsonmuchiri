@@ -1,0 +1,48 @@
+body, html{
+background-color:#f8f9fa !important;
+}
+.row{
+background-color:white !important;
+}
+h1,h2,h3,h4,h5{
+color:#f0733e !important;
+font-family: 'Montserrat', sans-serif !important;
+}
+nav ul li{
+display:inline-block;
+list-style:None;
+padding:15px;
+}
+nav ul li a{
+text-decoration:None;
+}
+a{
+color:#f0733e;
+font-weight:bold;
+font-family: 'Arvo', serif;
+}
+.media: hover{
+text-decoration:none;
+background-color:white !important;
+}
+.media{
+background-color:#f8f9fa !important;
+}
+ .form-group .btn-success .btn-block{
+color:white;
+background-color:#f0733e !important;
+border-color:#f0733e !important;
+}
+.navbar-brand, .nav-item,.nav-link, .dropdown-item{
+color:#f0733e !important;
+font-weight:bold !important;
+}
+.account-img{
+height:250px; width:250px; border-radius:8px;
+}
+.account-img-sm{
+height:40px; width:40px;
+}
+.footer{
+font-family: 'Oswald', sans-serif !important;
+}
